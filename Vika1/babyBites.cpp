@@ -27,7 +27,7 @@ int main(){
             
         }
     }
-
+    
     if (makesSense){
         cout << "makes sense" << endl;
     }

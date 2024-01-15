@@ -4,7 +4,6 @@ using namespace std;
 int main() {
     int low = 1;
     int high = 1000;
-    int gisk;
     string svar;
 
     
@@ -26,3 +25,4 @@ int main() {
     }
     return 0;
 }
+
